@@ -1,10 +1,10 @@
 {
   "name": "@hiroiku/image-feature-detector",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "",
-  "main": "./dist/image-feature-detector.js",
+  "main": "dist/image-feature-detector.js",
   "files": [
-    "./dist/"
+    "dist"
   ],
   "scripts": {
     "build": "webpack --mode production",
