@@ -15,7 +15,7 @@ module.exports = {
     libraryExport: 'default',
     umdNamedDefine: true,
     path: `${__dirname}/dist/`,
-    filename: `${libraryId}.js`,
+    filename: 'index.js',
   },
   module: {
     rules: [
